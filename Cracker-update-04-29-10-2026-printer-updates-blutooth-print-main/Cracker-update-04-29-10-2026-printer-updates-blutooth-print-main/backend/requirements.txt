@@ -130,3 +130,5 @@ websockets==16.1.1
 wrapt==2.5.1
 yarl==1.25.1
 zipp==4.1.1
+uvicorn[standard]
+pymongo[srv]
